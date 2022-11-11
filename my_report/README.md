@@ -1,9 +1,9 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Antonios Gavridakis
+### University Registration Number: dpsd19013
+### GitHub Personal Profile: https://github.com/tonygavridakis
+### Digital & Serious Games Personal Repository: https://tonygavridakis.github.io/Role-Playing-Game/
 
 # Introduction
 
@@ -23,3 +23,7 @@
 
 
 # Sources
+
+https://cainos.itch.io/pixel-art-top-down-basic (ΓΙΑ ΤΟ ΜΑΠ ΜΟΥ)
+
+https://seliel-the-shaper.itch.io/character-base ( ΓΙΑ ΤΟN ΧΑΡΑΚΤΗΡΑ ΜΟΥ)
