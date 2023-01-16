@@ -80,6 +80,20 @@ Camera - Cinemachine
 
 # 3rd Deliverable 
 
+Visual Styling - Particles
+
+ Αρχικά, για το τρίτο παραδοτέο, τα particles τα είχα έτοιμα από το 2ο παραδοτέο γιατί δεν μπορούσα να κρατηθώ και να μην τα κάνω. (Βροχή και σκιές σε εχθρούσ και αντικείμενα)
+ 
+ ![1](https://user-images.githubusercontent.com/101422706/212720309-dded9d95-4ec6-40f2-9c84-27704acb63cb.jpg)
+ 
+Visual Styling - User Interface - Head-Up Display
+
+ Στο UI του χαρακτήρα μου χρησιμοποίησα ένα asset από το itch.io το οποίο το έκανα μόνος μου custom στο Photoshop και το έφερα στα μέτρα του παιχνιδιού μου.
+ 
+ ![image](https://user-images.githubusercontent.com/101422706/212721833-3ba90a9e-cdf0-408d-a107-3b900afddc6e.png)
+
+
+
 
 # Conclusions
 
