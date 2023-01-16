@@ -109,11 +109,23 @@ Visual Styling - User Interface - Head-Up Display
  Audio 
  
   Για μουσική υπόκρουση στις πιστες του παιχνιδιού χρησιμοποίησα ένα sample από το youtube και το επεξεργάστηκα στο Fl Studio για μίξη και μάστερ του ήχου διότι δεν το έβρησκα έτοιμο σε καλή ποιότητα, οπότε το έκανα μόνος μου "upscale" σε ποιότητα. 
+  
+  ![image](https://user-images.githubusercontent.com/101422706/212726398-1ad9e50f-9113-4f7d-a4a1-7e1404ef66c7.png)
 
+Menu και End Screen
 
-
-
-
+ Δημιούργησα στο Dall-E ( artificial intelligence με χρήση κώδικα ) και μετά ολοκλήρωσα στο Photoshop, το δικό μου μοναδικό background. To επίσης μου πήρε 2 μέρες για να καταλάβω πως δουλεύει. Για να δημιουργήσω το menu πήρα βοήθεια από ένα βίντεο στο Youtube (https://www.youtube.com/watch?v=zc8ac_qUXQY) και αυτοσχεδίασα γιατί μου παρουσιάστηκαν πολλά σφάλματα με τα Buttons. Επίσης, το End Screen είναι όλο από αυτοσχεδιασμό χωρίς την βοήθεια από tutorials.
+ 
+ Custom Background :
+ 
+ ![farway menu](https://user-images.githubusercontent.com/101422706/212727839-1dbe84bf-d7b3-4cda-9d53-cfe9530b736c.png)
+ 
+ Finished with Buttons :
+ 
+ ![image](https://user-images.githubusercontent.com/101422706/212728174-03925109-a5ac-46d8-963c-5687aca864fe.png)
+ 
+ 
+ 
 
 
 # Conclusions
