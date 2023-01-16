@@ -82,15 +82,36 @@ Camera - Cinemachine
 
 Visual Styling - Particles
 
- Αρχικά, για το τρίτο παραδοτέο, τα particles τα είχα έτοιμα από το 2ο παραδοτέο γιατί δεν μπορούσα να κρατηθώ και να μην τα κάνω. (Βροχή και σκιές σε εχθρούσ και αντικείμενα)
+ Αρχικά, για το τρίτο παραδοτέο, τα particles τα είχα έτοιμα από το 2ο παραδοτέο γιατί δεν μπορούσα να κρατηθώ και να μην τα κάνω. (Βροχή ΣΕ ΣΥΓΚΕΚΡΙΜΕΝΗ πίστα και σκιές σε εχθρούσ και αντικείμενα)
  
  ![1](https://user-images.githubusercontent.com/101422706/212720309-dded9d95-4ec6-40f2-9c84-27704acb63cb.jpg)
  
 Visual Styling - User Interface - Head-Up Display
 
- Στο UI του χαρακτήρα μου χρησιμοποίησα ένα asset από το itch.io το οποίο το έκανα μόνος μου custom στο Photoshop και το έφερα στα μέτρα του παιχνιδιού μου.
+ Στο UI του χαρακτήρα μου, συμβουλεύτηκα ένα tutorial στο youtube (https://www.youtube.com/watch?v=BLfNP4Sc_iA) και από το tutorial του GitHub και χρησιμοποίησα ένα asset από το itch.io το οποίο το έκανα μόνος μου custom στο Photoshop και το έφερα στα μέτρα του παιχνιδιού μου.
  
  ![image](https://user-images.githubusercontent.com/101422706/212721833-3ba90a9e-cdf0-408d-a107-3b900afddc6e.png)
+ 
+ Ακόμα.. το Score μου το έφτιαξα με την βοήθεια ενός βίντεο στο Youtube (https://www.youtube.com/watch?v=cOW_T3i4_kk) και μιας γραμματοσειράς που βρήκα στο reddit.com καθώς ήθελα κάτι " medival " για font.
+ 
+ ![image](https://user-images.githubusercontent.com/101422706/212723062-c2d90021-2963-417e-917a-beb0c60a6a28.png)
+ 
+ World Interactions - Dialog Raycast
+ 
+  Στην συνέχεια χρησιμοποίησα το tutorial απο το GitHub για να φτιάξω τους διαλόγους από τα NPC μου και τους έδωσα την δυνατότητα να χρησιμοποιούνται και με το πληκτρολόγιο για να ανοίξουν μπροστά στον παίχτη αλλά και με το κλικ του ποντικιού για να συνεχίσει το NPC να δίνει πληροφορίες σε καινούργιες καρτέλες. 
+  
+ ![image](https://user-images.githubusercontent.com/101422706/212723989-cdbdda04-2f61-43fc-b5a0-14b6b8f1e057.png)
+
+  Για να φτιάξω το teleportation μεταξύ χώρων στις πίστες χρησιμοποίησα τον κώδικα ενός Game Developer από το GitHub (https://gist.github.com/bendux/84d43e25f74c0c56e4b02a4157fa71b0) και το συνδύασα με το Light System που εφτιαξα στο προιγούμενο παραδοτέο αλλά και με ένα animation που στην ουσία προσφέρει οφηγίες στον χρήστη για το ποιο πλήκτρο να πατήσει για να το χρησιμοποιήσει και να τηλεμεταφερθεί. 
+  
+ ![image](https://user-images.githubusercontent.com/101422706/212725198-d30c299c-1b5a-4185-98f8-836b981f2ec8.png)
+ 
+ Audio 
+ 
+  Για μουσική υπόκρουση στις πιστες του παιχνιδιού χρησιμοποίησα ένα sample από το youtube και το επεξεργάστηκα στο Fl Studio για μίξη και μάστερ του ήχου διότι δεν το έβρησκα έτοιμο σε καλή ποιότητα, οπότε το έκανα μόνος μου "upscale" σε ποιότητα. 
+
+
+
 
 
 
